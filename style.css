@@ -5,7 +5,8 @@
             h1,h2 {
                 color: #ff00ff;
                 background-color: beige;
-                border: groove #e6b800
+                border: groove #e6b800;
+		font-family: "georgia"
             }
             
             ol {
@@ -27,8 +28,8 @@
                 color: aqua
             }
 
-			.author { 
-                color: #80ffbf
-				font-family: "Lucida Handwriting";
-				font-size: 30px
+	    .author { 
+                color: #80ffbf;
+		font-family: "Lucida Handwriting";
+		font-size: 30px
 			}
